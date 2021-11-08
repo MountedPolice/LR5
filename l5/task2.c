@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 char *find(const char* str, const char* substr)
 {
 	unsigned int i = 0;
